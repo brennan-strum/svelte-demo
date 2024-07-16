@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "brennanstrum",
+    "MONGO_PASSWORD": "X9h3AymY0ebfbnMd",
+    "MONGO_DATABASE": "personal.mu0ghjb.mongodb.net"
+  }
+}

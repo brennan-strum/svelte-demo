@@ -1,0 +1,80 @@
+[
+  {
+    "product_id": "669582f7892febafe40d28e8",
+    "user": "userA",
+    "rating": 5,
+    "content": "This product exceeded my expectations. The quality is top-notch and the performance is unparalleled."
+  },
+  {
+    "product_id": "669582f7892febafe40d28e8",
+    "user": "userB",
+    "rating": 4,
+    "content": "Very good product, but there is room for improvement in the design. Overall, I am satisfied."
+  },
+  {
+    "product_id": "669582f7892febafe40d28e8",
+    "user": "userC",
+    "rating": 3,
+    "content": "It's decent for the price, but I encountered a few issues with durability. Might consider a different brand next time."
+  },
+  {
+    "product_id": "669582f7892febafe40d28e9",
+    "user": "userD",
+    "rating": 2,
+    "content": "I was disappointed with this product. It didn't work as advertised and felt cheaply made."
+  },
+  {
+    "product_id": "669582f7892febafe40d28e9",
+    "user": "userE",
+    "rating": 4,
+    "content": "Overall, a good product. It performs well and is easy to use. I would recommend it."
+  },
+  {
+    "product_id": "669582f7892febafe40d28ea",
+    "user": "userG",
+    "rating": 3,
+    "content": "The product is okay, but I had higher expectations. It's functional but lacks some key features."
+  },
+  {
+    "product_id": "669582f7892febafe40d28ea",
+    "user": "userH",
+    "rating": 4,
+    "content": "I am pleased with this purchase. The product works well and is reasonably priced."
+  },
+  {
+    "product_id": "669582f7892febafe40d28ea",
+    "user": "userI",
+    "rating": 2,
+    "content": "Not very impressed. It didn't meet my needs and had several flaws in its design."
+  },
+  {
+    "product_id": "669582f7892febafe40d28eb",
+    "user": "userJ",
+    "rating": 5,
+    "content": "Fantastic product! I am extremely happy with its performance and build quality."
+  },
+  {
+    "product_id": "669582f7892febafe40d28eb",
+    "user": "userK",
+    "rating": 3,
+    "content": "It's an average product. Does the job but nothing exceptional about it."
+  },
+  {
+    "product_id": "669582f7892febafe40d28ec",
+    "user": "userM",
+    "rating": 5,
+    "content": "This is one of the best products I have ever used. Highly efficient and durable."
+  },
+  {
+    "product_id": "669582f7892febafe40d28ec",
+    "user": "userN",
+    "rating": 4,
+    "content": "Great product overall. It has a few minor issues but nothing major."
+  },
+  {
+    "product_id": "669582f7892febafe40d28ec",
+    "user": "userO",
+    "rating": 3,
+    "content": "It's a decent product but doesn't stand out. It meets basic requirements."
+  }
+]
